@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.8600, 1.2850],
+            [103.8605, 1.2855],
+            [103.8610, 1.2850],
+            [103.8605, 1.2845],
+            [103.8600, 1.2850]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sample Polygon in Singapore",
+        "description": "A simple polygon near Marina Bay"
+      }
+    }
+  ]
+}
